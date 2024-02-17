@@ -2,9 +2,9 @@
   "name": "kado",
   "version": "1.0.0",
   "description": "kado bunga oleh ako",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.html"
   },
   "repository": {
     "type": "git",
